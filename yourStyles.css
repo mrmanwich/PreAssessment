@@ -1,5 +1,27 @@
 body {
-  background-color: #e3e3e3;
+  background-color: none;
 }
-
-/* Your Code Here */
+.row-one {
+  width: 100%;
+  height: 5%;
+  border: 1px solid #000;
+  background-color: #009900;
+}
+.row-two {
+  width: 100%;
+  height: 5%;
+  border: 1px solid #000;
+  background-color: #cccc00;
+}
+.row-three {
+  width: 100%;
+  height: 5%;
+  border: 1px solid #000;
+  background-color: #cc0000;
+}
+.row-four {
+  width: 100%;
+  height: 5%;
+  border: 1px solid #000;
+  background-color: #000066;
+}
